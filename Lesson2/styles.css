@@ -1,0 +1,19 @@
+.oddElm, .thirdElm {
+    background-color: rgb(255, 228, 232);
+    font-family: sans-serif;
+}
+
+.secondElm {
+    color: blue;
+    font-size: 36px;
+}
+
+.thirdElm{
+    font-size: 24px;
+}
+
+.fourthElm{
+    background-color: lightgreen;
+    font-size: 24px;
+    font-style: bold;
+}
